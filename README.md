@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/didemkavlakgedik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didemkavlakgedik" height="30" width="40" /></a>
 </p>
 
-![giphy](https://user-images.githubusercontent.com/75166595/148661205-6f2929fb-f7a2-43b7-a06a-84fa3b0cea25.gif)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
